@@ -2,5 +2,6 @@
 2. Decide method of ordering, where from
 3. Place the order
 4. Confirm address and payment
-5. Wait for the pizza
-6. Receive the pizza
+5. Confirm order is correct
+6. Wait for the pizza
+7. Receive the pizza
