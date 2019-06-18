@@ -1,0 +1,6 @@
+1. Decide on pizza to order
+2. Decide method of ordering, where from
+3. Place the order
+4. Confirm address and payment
+5. Wait for the pizza
+6. Receive the pizza
