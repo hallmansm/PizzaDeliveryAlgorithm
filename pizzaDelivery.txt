@@ -1,7 +1,8 @@
-1. Decide on pizza to order
-2. Decide method of ordering, where from
-3. Place the order
-4. Confirm address and payment
-5. Confirm order is correct
-6. Wait for the pizza
-7. Receive the pizza
+1. Choose where to order from 
+2. Decide on pizza to order
+3. Decide method of ordering, 
+4. Place the order
+5. Confirm address and payment
+6. Confirm order is correct
+7. Wait for the pizza
+8. Receive the pizza
